@@ -1,0 +1,4 @@
+Mensagem
+do
+arquivo
+file.txt

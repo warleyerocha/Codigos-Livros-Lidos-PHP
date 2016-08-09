@@ -1,0 +1,1 @@
+Mensagem escrita por: file_put_contents
